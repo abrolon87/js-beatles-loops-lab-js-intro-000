@@ -4,8 +4,8 @@ function theBeatlesPlay(musicians, instruments) {
     array.push(musicians[i] + ' plays ' + instruments[i]);
   }
   return array;
- }// add solution here
-
+ }
+//passed
 function johnLennonFacts(array) {
   var i = 0
   while (i < array.length) {
@@ -14,7 +14,7 @@ function johnLennonFacts(array) {
   }
   return array;
 }
-
+//passed
 function iLoveTheBeatles(num) {
   var s = [];
   var i = 0;
