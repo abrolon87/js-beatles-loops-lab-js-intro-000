@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
 }// add solution here
 
 function johnLennonFacts(array) {
-  
+
 }
 
 function iLoveTheBeatles(num) {
